@@ -1,1 +1,1 @@
-# programming_practice
+Repository for misc. code
